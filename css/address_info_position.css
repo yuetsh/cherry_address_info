@@ -25,6 +25,16 @@ a { color: #3e3e3e; outline: none;text-decoration: none; }
 .clear { zoom: 1; }
 .clear:after { content: ""; display: block; height: 0; clear: both; visibility: hidden; }
 
+.index1{
+    padding-top: 10px;padding-bottom: 10px;background-color: #ccc;
+}
+.form-group span{
+    color:red;
+}
+.form-group .col-xs-12{
+    margin-top: 5px;font-size: 14px;
+}
+
 .index4{
     width: 90%;height: 40px;position: fixed;bottom: 0%;
 }
